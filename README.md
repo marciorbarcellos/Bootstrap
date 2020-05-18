@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Bootstrap Preview](https://github.com/marciorbarcellos/Bootstrap/boostrap.jpg)
+[![Bootstrap Preview](https://github.com/marciorbarcellos/Bootstrap/blob/master/img/bootstrap.jpg)
 
 
 (https://github.com/marciorbarcellos/Bootstrap)
