@@ -1,6 +1,6 @@
 # [Bootstrap - Digital Innovation One](https://github.com/marciorbarcellos/bootstrap)
 
-[Bootstrap](https://github.com/marciorbarcellos/Bootstrap) Bootcamp Digital Innovation One
+[Bootstrap](https://github.com/marciorbarcellos/Bootstrap) Bootcamp Digital Innovation One]
 
 ## Preview
 
