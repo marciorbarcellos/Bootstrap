@@ -1,14 +1,11 @@
-# [Bootstrap - Digital Innovation One](https://github.com/marciorbarcellos/bootstrap)
-
-[Bootstrap](https://github.com/marciorbarcellos/bootstrap) Bootcamp Digital Innovation One
-
-* Utilização do framework Bootstrap com HTML5 e CSS3
-
+# [Bootstrap - Bootcamp Digital Innovation One](https://github.com/marciorbarcellos/bootstrap)
 
 ## Preview
 
-[![Boostrap Preview](https://github.com/marciorbarcellos/Bootstrap/blob/master/img/bootstrap.jpg)
+* Utilização do framework Bootstrap com HTML5 e CSS3
 
+![Bootstrap](https://i.imgur.com/riCjglu.jpg)
 
 (https://github.com/marciorbarcellos/bootstrap)
+
 
